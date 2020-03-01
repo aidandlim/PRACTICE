@@ -1,2 +1,4 @@
 # PRACTICE
-The navigation of practice project
+
+Unfortunately, this navigation is under construction..!
+Please check out the repository menu :)
